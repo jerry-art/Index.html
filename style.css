@@ -1,0 +1,38 @@
+.purple-color{
+color:purple;
+}
+ body{
+ color:#777777;
+ font-family:comic sans ms;
+ line-height:26px ;}
+ .left-side{
+ float:left;
+ width:50%;
+ }
+  .button{
+  color: #ffffff;
+  background-color:purple;
+  padding: 20 50 20 50;
+  border-radius:20px;
+  text-decoration:none;}
+ h1 { 
+ font-size: 2.5em;}
+.container{
+padding:5% ;
+display:inline-block
+}
+.experience{
+margin:30px;
+padding:30px ;
+background-color:rgb(238,251,255) ;
+border-radius:20px;
+}
+.experience-item{
+border-left: 1px dashed rgba(137,130,247,.2);
+padding: 10px;
+}
+.pic{
+border-style:circle;
+border: 1px solid steelblue;}
+width:10px;
+height:10px
